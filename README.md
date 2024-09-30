@@ -27,6 +27,7 @@ Output :
 ```
 
 Sample Input #2 : 19
+Output : 
 
 ```
 *******************                     

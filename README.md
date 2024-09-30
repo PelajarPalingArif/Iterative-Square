@@ -12,6 +12,7 @@ The output must be written to standard output.
 
 Sample Input : 11
 Output : 
+```
 ***********                     
 *         *                     
 * ******* *                     
@@ -23,9 +24,11 @@ Output :
 * ******* *                     
 *         *                     
 ***********
+```
 
 Sample Input #2 : 19
 
+```
 *******************                     
 *                 *                     
 * *************** *                     
@@ -45,6 +48,7 @@ Sample Input #2 : 19
 * *************** *                     
 *                 *                     
 *******************
+```
 
 The "i : x,s : y" is for debug purposes, feel free to remove them. 
 

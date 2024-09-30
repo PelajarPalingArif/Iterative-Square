@@ -4,7 +4,9 @@ using namespace std;
 
 int main()
 {
-	int a = 11;
+	int a;
+	cout<<"Enter 3 + multiple of 4";
+	cin>>a;
 	int s = 0;
 	int holderI = 0;
 	int holderS = 0;
